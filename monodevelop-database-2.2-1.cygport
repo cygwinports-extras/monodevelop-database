@@ -1,0 +1,6 @@
+inherit mono
+
+DESCRIPTION="Database plugin for MonoDevelop IDE"
+HOMEPAGE="http://monodevelop.org/"
+
+MAKEOPTS+=" -j1"
